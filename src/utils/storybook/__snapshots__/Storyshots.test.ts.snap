@@ -1,0 +1,625 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Composants CreateExpe 1`] = `
+<div>
+  <div
+    className="title mb-3"
+  >
+    CreateExpe
+  </div>
+  <div>
+    <div
+      className="columns"
+    >
+      <div
+        className="column is-3 has-text-black"
+      >
+        Default
+         :
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ListExpe content"
+        >
+          <h1>
+            Creation d'une expédition
+          </h1>
+          <form
+            onSubmit={[Function]}
+          >
+            <div
+              className="field"
+            >
+              <label
+                className="label"
+                htmlFor="name"
+              >
+                Nom
+              </label>
+              <div
+                className="control"
+              >
+                <input
+                  className="input"
+                  data-testid="name"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              className="field"
+            >
+              <label
+                className="label"
+                htmlFor="name"
+              >
+                Niveau
+              </label>
+              <div
+                className="control"
+              >
+                <div
+                  className="select"
+                >
+                  <select
+                    data-testid="level"
+                  >
+                    <option
+                      value="Facile"
+                    >
+                      Facile
+                    </option>
+                    <option
+                      value="Moyen"
+                    >
+                      Moyen
+                    </option>
+                    <option
+                      value="Difficile"
+                    >
+                      Difficile
+                    </option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div
+              className="field"
+            >
+              <label
+                className="label"
+                htmlFor="name"
+              >
+                Pays
+              </label>
+              <div
+                className="control"
+              >
+                <input
+                  className="input"
+                  data-testid="country"
+                  type="text"
+                />
+              </div>
+            </div>
+            <div
+              className="field"
+            >
+              <label
+                className="label"
+                htmlFor="name"
+              >
+                Places
+              </label>
+              <div
+                className="control"
+              >
+                <div
+                  className="select"
+                >
+                  <select
+                    data-testid="placesCount"
+                  >
+                    <option
+                      value={1}
+                    >
+                      1
+                    </option>
+                    <option
+                      value={2}
+                    >
+                      2
+                    </option>
+                    <option
+                      value={3}
+                    >
+                      3
+                    </option>
+                    <option
+                      value={4}
+                    >
+                      4
+                    </option>
+                    <option
+                      value={5}
+                    >
+                      5
+                    </option>
+                    <option
+                      value={6}
+                    >
+                      6
+                    </option>
+                    <option
+                      value={7}
+                    >
+                      7
+                    </option>
+                    <option
+                      value={8}
+                    >
+                      8
+                    </option>
+                    <option
+                      value={9}
+                    >
+                      9
+                    </option>
+                    <option
+                      value={10}
+                    >
+                      10
+                    </option>
+                    <option
+                      value={11}
+                    >
+                      11
+                    </option>
+                    <option
+                      value={12}
+                    >
+                      12
+                    </option>
+                    <option
+                      value={13}
+                    >
+                      13
+                    </option>
+                    <option
+                      value={14}
+                    >
+                      14
+                    </option>
+                    <option
+                      value={15}
+                    >
+                      15
+                    </option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div
+              className="field is-grouped"
+            >
+              <div
+                className="control"
+              >
+                <input
+                  className="button is-link"
+                  type="submit"
+                  value="Créer"
+                />
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Composants DetailsExpe 1`] = `
+<div>
+  <div
+    className="title mb-3"
+  >
+    DetailsExpe
+  </div>
+  <div>
+    <div
+      className="columns"
+    >
+      <div
+        className="column is-3 has-text-black"
+      >
+        Default
+         :
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="DetailsExpe content"
+        >
+          <h1>
+            ski dans le grand nord
+             (
+            123
+            )
+          </h1>
+          <div
+            className="box"
+          >
+            Voyage sportif dans le grand nord, en ski de randonnée, en itinérant sur une semaine, à la conquête des sommets
+          </div>
+          <div>
+            Niveau : 
+            Moyen
+          </div>
+          <div>
+            Pays : 
+            Norvège
+          </div>
+          <img
+            src="grenoble.jpg"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="columns"
+    >
+      <div
+        className="column is-3 has-text-black"
+      >
+        Without expe
+         :
+      </div>
+      <div
+        className="column"
+      >
+        <div>
+          Chargement en cours...
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Composants ListExpe 1`] = `
+<div>
+  <div
+    className="title mb-3"
+  >
+    ListExpe
+  </div>
+  <div>
+    <div
+      className="columns"
+    >
+      <div
+        className="column is-3 has-text-black"
+      >
+        Default
+         :
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ListExpe"
+        >
+          <h1>
+            Liste des expéditions
+          </h1>
+          <div
+            className="container"
+          >
+            <div
+              className="list"
+            >
+              <div
+                className="card mb-4 PreviewExpe"
+                onClick={[Function]}
+              >
+                <div
+                  className="card-content"
+                >
+                  <div
+                    className="content content"
+                  >
+                    <h1>
+                      ski dans le grand nord
+                    </h1>
+                    <span
+                      className="tag tag is-warning"
+                    >
+                      Moyen
+                    </span>
+                    <div>
+                      Voyage sportif dans le grand nord, en ski de randonnée, en itinérant sur une semaine, à la conquête des sommets
+                    </div>
+                    <div>
+                      <span
+                        className="tag is-info"
+                      >
+                        8
+                         places
+                      </span>
+                       
+                      <span
+                        className="tag is-info"
+                      >
+                        Norvège
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card mb-4 PreviewExpe"
+                onClick={[Function]}
+              >
+                <div
+                  className="card-content"
+                >
+                  <div
+                    className="content content"
+                  >
+                    <h1>
+                      raquette dans le grand nord
+                    </h1>
+                    <span
+                      className="tag tag is-success"
+                    >
+                      Facile
+                    </span>
+                    <div>
+                      Voyage tranquille dans le grand nord, à la rencontre des habitants, de la culture locale et des animaux sauvages
+                    </div>
+                    <div>
+                      <span
+                        className="tag is-info"
+                      >
+                        12
+                         places
+                      </span>
+                       
+                      <span
+                        className="tag is-info"
+                      >
+                        Norvège
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div
+                className="card mb-4 PreviewExpe"
+                onClick={[Function]}
+              >
+                <div
+                  className="card-content"
+                >
+                  <div
+                    className="content content"
+                  >
+                    <h1>
+                      voile en atlantique
+                    </h1>
+                    <span
+                      className="tag tag is-success"
+                    >
+                      Facile
+                    </span>
+                    <div>
+                      Sortie en pleine mer, sur un long week-end, à la découverte du grand large et des mammifères marins
+                    </div>
+                    <div>
+                      <span
+                        className="tag is-info"
+                      >
+                        5
+                         places
+                      </span>
+                       
+                      <span
+                        className="tag is-info"
+                      >
+                        France
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div
+      className="columns"
+    >
+      <div
+        className="column is-3 has-text-black"
+      >
+        Liste Vide
+         :
+      </div>
+      <div
+        className="column"
+      >
+        <div
+          className="ListExpe"
+        >
+          <h1>
+            Liste des expéditions
+          </h1>
+          <div
+            className="container"
+          >
+            <div
+              className="list"
+            >
+              <span>
+                Aucune expédition
+              </span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Composants PreviewExpe 1`] = `
+<div>
+  <div
+    className="title mb-3"
+  >
+    PreviewExpe
+  </div>
+  <div>
+    <div
+      className="columns"
+    >
+      <div
+        className="column is-3 has-text-black"
+      >
+        Exemples
+         :
+      </div>
+      <div
+        className="column"
+      >
+        <div>
+          <div
+            className="card mb-4 PreviewExpe"
+            onClick={[Function]}
+          >
+            <div
+              className="card-content"
+            >
+              <div
+                className="content content"
+              >
+                <h1>
+                  voile en atlantique
+                </h1>
+                <span
+                  className="tag tag is-success"
+                >
+                  Facile
+                </span>
+                <div>
+                  Sortie en pleine mer, sur un long week-end, à la découverte du grand large et des mammifères marins
+                </div>
+                <div>
+                  <span
+                    className="tag is-info"
+                  >
+                    5
+                     places
+                  </span>
+                   
+                  <span
+                    className="tag is-info"
+                  >
+                    France
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="card mb-4 PreviewExpe"
+            onClick={[Function]}
+          >
+            <div
+              className="card-content"
+            >
+              <div
+                className="content content"
+              >
+                <h1>
+                  ski dans le grand nord
+                </h1>
+                <span
+                  className="tag tag is-warning"
+                >
+                  Moyen
+                </span>
+                <div>
+                  Voyage sportif dans le grand nord, en ski de randonnée, en itinérant sur une semaine, à la conquête des sommets
+                </div>
+                <div>
+                  <span
+                    className="tag is-info"
+                  >
+                    8
+                     places
+                  </span>
+                   
+                  <span
+                    className="tag is-info"
+                  >
+                    Norvège
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div
+            className="card mb-4 PreviewExpe"
+            onClick={[Function]}
+          >
+            <div
+              className="card-content"
+            >
+              <div
+                className="content content"
+              >
+                <h1>
+                  Croix de Belledonne
+                </h1>
+                <span
+                  className="tag tag is-danger"
+                >
+                  Difficile
+                </span>
+                <div>
+                  Ascension du plus célèbre somme de la chaine de Belledonne
+                </div>
+                <div>
+                  <span
+                    className="tag is-info"
+                  >
+                    3
+                     places
+                  </span>
+                   
+                  <span
+                    className="tag is-info"
+                  >
+                    France
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
