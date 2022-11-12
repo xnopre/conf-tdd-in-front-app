@@ -1,0 +1,15 @@
+.PreviewExpe {
+    h1 {
+        text-transform: capitalize;
+    }
+
+    .content {
+        position: relative;
+
+        .tag {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+    }
+}
