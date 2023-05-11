@@ -1,7 +1,7 @@
 import { HomeView } from './HomeView';
 
 export class AboutPage {
-    checkContent() {
+    checkContentPageAbout() {
         cy.contains('About');
         return this;
     }
