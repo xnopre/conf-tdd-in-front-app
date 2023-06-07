@@ -9,15 +9,9 @@ const stories: SbStory[] = [
         label: 'Exemples',
         content: (
             <div>
-                <PreviewExpe expedition={expe3}
-                             // onExpeditionClicked={action('Clic expe3')}
-                />
-                <PreviewExpe expedition={expe1}
-                             // onExpeditionClicked={action('Clic expe1')}
-                />
-                <PreviewExpe expedition={expe4}
-                             // onExpeditionClicked={action('Clic expe4')}
-                />
+                <PreviewExpe expedition={expe3} onExpeditionClicked={action('Clic expe3')} />
+                <PreviewExpe expedition={expe1} onExpeditionClicked={action('Clic expe1')} />
+                <PreviewExpe expedition={expe4} onExpeditionClicked={action('Clic expe4')} />
             </div>
         ),
     },

@@ -29,6 +29,7 @@ export const ListExpe = ({ expeditions, onExpeditionClicked }: Props) => {
                         <PreviewExpe
                             expedition={expedition}
                             key={expedition.uid}
+                            onExpeditionClicked={() => onExpeditionClicked(expedition.uid)}
                         />
                     ))}
                 </div>

@@ -326,7 +326,7 @@ exports[`Storyshots Composants ListExpe 1`] = `
               className="list"
             >
               <div
-                className="card mb-4 PreviewExpe"
+                className="card mb-4"
                 onClick={[Function]}
               >
                 <div
@@ -338,33 +338,27 @@ exports[`Storyshots Composants ListExpe 1`] = `
                     <h1>
                       ski dans le grand nord
                     </h1>
+                  </div>
+                  Voyage sportif dans le grand nord, en ski de randonnée, en itinérant sur une semaine, à la conquête des sommets
+                  <div>
                     <span
-                      className="tag tag is-warning"
+                      className="tag is-info"
                     >
-                      Moyen
+                      Reste 
+                      8
+                       places
                     </span>
-                    <div>
-                      Voyage sportif dans le grand nord, en ski de randonnée, en itinérant sur une semaine, à la conquête des sommets
-                    </div>
-                    <div>
-                      <span
-                        className="tag is-info"
-                      >
-                        8
-                         places
-                      </span>
-                       
-                      <span
-                        className="tag is-info"
-                      >
-                        Norvège
-                      </span>
-                    </div>
+                     
+                    <span
+                      className="tag is-info"
+                    >
+                      Norvège
+                    </span>
                   </div>
                 </div>
               </div>
               <div
-                className="card mb-4 PreviewExpe"
+                className="card mb-4"
                 onClick={[Function]}
               >
                 <div
@@ -376,33 +370,27 @@ exports[`Storyshots Composants ListExpe 1`] = `
                     <h1>
                       raquette dans le grand nord
                     </h1>
+                  </div>
+                  Voyage tranquille dans le grand nord, à la rencontre des habitants, de la culture locale et des animaux sauvages
+                  <div>
                     <span
-                      className="tag tag is-success"
+                      className="tag is-info"
                     >
-                      Facile
+                      Reste 
+                      12
+                       places
                     </span>
-                    <div>
-                      Voyage tranquille dans le grand nord, à la rencontre des habitants, de la culture locale et des animaux sauvages
-                    </div>
-                    <div>
-                      <span
-                        className="tag is-info"
-                      >
-                        12
-                         places
-                      </span>
-                       
-                      <span
-                        className="tag is-info"
-                      >
-                        Norvège
-                      </span>
-                    </div>
+                     
+                    <span
+                      className="tag is-info"
+                    >
+                      Norvège
+                    </span>
                   </div>
                 </div>
               </div>
               <div
-                className="card mb-4 PreviewExpe"
+                className="card mb-4"
                 onClick={[Function]}
               >
                 <div
@@ -414,28 +402,22 @@ exports[`Storyshots Composants ListExpe 1`] = `
                     <h1>
                       voile en atlantique
                     </h1>
+                  </div>
+                  Sortie en pleine mer, sur un long week-end, à la découverte du grand large et des mammifères marins
+                  <div>
                     <span
-                      className="tag tag is-success"
+                      className="tag is-info"
                     >
-                      Facile
+                      Reste 
+                      5
+                       places
                     </span>
-                    <div>
-                      Sortie en pleine mer, sur un long week-end, à la découverte du grand large et des mammifères marins
-                    </div>
-                    <div>
-                      <span
-                        className="tag is-info"
-                      >
-                        5
-                         places
-                      </span>
-                       
-                      <span
-                        className="tag is-info"
-                      >
-                        France
-                      </span>
-                    </div>
+                     
+                    <span
+                      className="tag is-info"
+                    >
+                      France
+                    </span>
                   </div>
                 </div>
               </div>
@@ -504,7 +486,7 @@ exports[`Storyshots Composants PreviewExpe 1`] = `
       >
         <div>
           <div
-            className="card mb-4 PreviewExpe"
+            className="card mb-4"
             onClick={[Function]}
           >
             <div
@@ -516,33 +498,27 @@ exports[`Storyshots Composants PreviewExpe 1`] = `
                 <h1>
                   voile en atlantique
                 </h1>
+              </div>
+              Sortie en pleine mer, sur un long week-end, à la découverte du grand large et des mammifères marins
+              <div>
                 <span
-                  className="tag tag is-success"
+                  className="tag is-info"
                 >
-                  Facile
+                  Reste 
+                  5
+                   places
                 </span>
-                <div>
-                  Sortie en pleine mer, sur un long week-end, à la découverte du grand large et des mammifères marins
-                </div>
-                <div>
-                  <span
-                    className="tag is-info"
-                  >
-                    5
-                     places
-                  </span>
-                   
-                  <span
-                    className="tag is-info"
-                  >
-                    France
-                  </span>
-                </div>
+                 
+                <span
+                  className="tag is-info"
+                >
+                  France
+                </span>
               </div>
             </div>
           </div>
           <div
-            className="card mb-4 PreviewExpe"
+            className="card mb-4"
             onClick={[Function]}
           >
             <div
@@ -554,33 +530,27 @@ exports[`Storyshots Composants PreviewExpe 1`] = `
                 <h1>
                   ski dans le grand nord
                 </h1>
+              </div>
+              Voyage sportif dans le grand nord, en ski de randonnée, en itinérant sur une semaine, à la conquête des sommets
+              <div>
                 <span
-                  className="tag tag is-warning"
+                  className="tag is-info"
                 >
-                  Moyen
+                  Reste 
+                  8
+                   places
                 </span>
-                <div>
-                  Voyage sportif dans le grand nord, en ski de randonnée, en itinérant sur une semaine, à la conquête des sommets
-                </div>
-                <div>
-                  <span
-                    className="tag is-info"
-                  >
-                    8
-                     places
-                  </span>
-                   
-                  <span
-                    className="tag is-info"
-                  >
-                    Norvège
-                  </span>
-                </div>
+                 
+                <span
+                  className="tag is-info"
+                >
+                  Norvège
+                </span>
               </div>
             </div>
           </div>
           <div
-            className="card mb-4 PreviewExpe"
+            className="card mb-4"
             onClick={[Function]}
           >
             <div
@@ -592,28 +562,22 @@ exports[`Storyshots Composants PreviewExpe 1`] = `
                 <h1>
                   Croix de Belledonne
                 </h1>
+              </div>
+              Ascension du plus célèbre somme de la chaine de Belledonne
+              <div>
                 <span
-                  className="tag tag is-danger"
+                  className="tag is-info"
                 >
-                  Difficile
+                  Reste 
+                  3
+                   places
                 </span>
-                <div>
-                  Ascension du plus célèbre somme de la chaine de Belledonne
-                </div>
-                <div>
-                  <span
-                    className="tag is-info"
-                  >
-                    3
-                     places
-                  </span>
-                   
-                  <span
-                    className="tag is-info"
-                  >
-                    France
-                  </span>
-                </div>
+                 
+                <span
+                  className="tag is-info"
+                >
+                  France
+                </span>
               </div>
             </div>
           </div>
